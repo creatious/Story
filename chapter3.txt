@@ -1,0 +1,2 @@
+This is chapter three of my fullstack development course. Although i have successfully completed front end development, 
+but i still need to take more classes on javaScript.
